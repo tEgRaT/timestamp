@@ -6,6 +6,6 @@
 6. create a new file called .gitignore, add node_modules to this file
 7. git add .
 8. git commit -m "initial commit"
-9. unstall modules won't used in this project: npm uninstall --save body-parser cookie-parser serve-favicon jade
-4. code
-5. npm start
+9. unstall modules won't used in this project: npm uninstall --save body-parser cookie-parser serve-favicon jade, don't forget to install pug instead of jade
+10. code
+11. npm start
