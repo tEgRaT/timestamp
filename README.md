@@ -1,3 +1,4 @@
+# This is a simple RESTful API called Timestamp Microservice of freeCodeCamp
 1. npm install -g express-generator
 2. express TimeStampMicroService
 3. cd TimeStampMicroService
@@ -7,5 +8,5 @@
 7. git add .
 8. git commit -m "initial commit"
 9. unstall modules won't used in this project: npm uninstall --save body-parser cookie-parser serve-favicon jade, don't forget to install pug instead of jade
-10. code
+10. do some coding
 11. npm start
